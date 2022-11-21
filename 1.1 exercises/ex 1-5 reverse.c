@@ -1,3 +1,13 @@
+/**
+ * @file ex 1-5 reverse.c
+ * @author codebug (zhang_classmate@qq.com)
+ * @brief 逆序打印温度转换表
+ * @version 0.1
+ * @date 2022-11-21 20:11
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<stdio.h>
 
 main() {

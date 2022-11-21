@@ -1,6 +1,6 @@
 #include<stdio.h>
 /*	´òÓ¡EOFµÄÖµ	*/
 
-main() {
-	printf("%d\n", EOF);
+int main() {
+	printf("%d\n", EOF); //Star
 }

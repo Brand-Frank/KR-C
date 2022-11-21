@@ -1,10 +1,11 @@
+/**
+ * @brief print Fahr to Celsuis while fahr = 0, 20, ..., 300	
+ * @note - lower to upper
+ * 		 - float
+ */
 #include<stdio.h>
-/*	Description: print Fahr to Celsuis while fahr = 0, 20, ..., 300
-	- lower to upper
-	- float
-*/
 
-main() {
+int main() {
 	float fahr, celsuis;	/*	float	*/
 	int lower = 0, upper = 300, step = 20;
 	fahr = lower;
